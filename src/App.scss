@@ -1,0 +1,21 @@
+body {
+	background-color: #f5f5f7;
+	font-family: "Montserrat", sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	margin: 0 auto;
+	color: white;
+	position: relative;
+
+	.header {
+		font-size: 36px;
+		font-weight: bold;
+		padding: 30px 0;
+		text-shadow: 2px 2px 1px #995400;
+		color: #ffd700;
+		text-align: center;
+	}
+}
